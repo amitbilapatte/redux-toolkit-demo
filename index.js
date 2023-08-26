@@ -1,6 +1,6 @@
-const store = require("./app/store");
 const cakeActions = require("./features/cake/cakeSlice").cakeActions;
 const icecreamActions = require("./features/icecream/icecreamSlice").icecreamActions;
+const store = require("./app/store");
 
 console.log("initial state", store.getState());
 
