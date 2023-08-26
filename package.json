@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/amitbilapatte/redux-toolkit-demo#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
-    "redux-logger": "^3.0.6"
+    "@reduxjs/toolkit": "^1.9.5"
   }
 }
